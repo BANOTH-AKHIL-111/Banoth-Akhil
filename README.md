@@ -78,7 +78,7 @@ FloodGuard Kerala is a simple and interactive web application that simulates rea
 
 ##  License
 
-This project is for educational and awareness purposes. All rights reserved © 2025 FloodGuard Kerala.
+This project is for educational and awareness purposes.
 
 ---
 
